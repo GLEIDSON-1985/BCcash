@@ -6,12 +6,12 @@
     }
 
     body {
-        background-color: rgb(red, green, blue);
+        background-color: rgb(#d62b2b, green, blue);
 
     }
 
     main {
-background-color: white;
+background-color: rgb(216, 190, 75)55, 255, 255);
 width:  500px;
 margin: auto;
 padding: 10px;
